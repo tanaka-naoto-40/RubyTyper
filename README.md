@@ -1,3 +1,6 @@
+■ 画面遷移図
+Figma: https://www.figma.com/file/maCWg0bm5i2J3vSWHNci3k/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=design&node-id=31%3A593&t=fVIy2m7QLhA4ANcX-1
+
 ■ サービス概要
 プログラミング初学者に向けたプログラミング学習サービスで
 Rubyを使ってアルゴリズムの学習を行うことができます。
